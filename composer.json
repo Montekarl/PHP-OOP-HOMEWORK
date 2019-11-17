@@ -1,0 +1,15 @@
+{
+  "name": "Karolis",
+  "description": "PHP OOP Homework",
+  "authors": [
+    {
+      "name": "Karolis Petrikas",
+      "email": "karolis.petrikas@mail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Nfq\\Academy\\": "src/"
+    }
+  }
+}
